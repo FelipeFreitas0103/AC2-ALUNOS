@@ -1,0 +1,9 @@
+Felipe Ferreira Freitas – 39174
+Luiz Gustavo Milanez Hengles – 40485
+Relatório de Testes 
+Teste 1: No primeiro teste, entramos no site da faculdade para acessar o link do questionário,
+fizemos da primeira vez sem utilizar a gravação do Selenium IDE, apenas para ter conhecimento
+das questões.
+Teste 2: No segundo teste começamos a gravar, com o Selenium IDE, utilizamos a extensão do
+Google Chrome, o teste não apresentou erros, funcionando corretamente, salvamos a gravação e
+enviamos via github. 
